@@ -26,4 +26,8 @@ print "let's sort these languages"
 jvm_langs.sort()
 print jvm_langs
 
+# if we want to delete 1st element from list 
+del jvm_langs[0]
+print(jvm_langs)
+
 
